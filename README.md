@@ -1,7 +1,9 @@
 Full stack BlackJack game
 
 Front End Using Swing
+
 Backend Using Java
+
 
 Full Game Functionality  |   Betting System   |   Displays Player's Physical Cards   |   Simple Dealer UI
 <img width="1470" alt="Screenshot 2025-06-26 at 4 59 57 PM" src="https://github.com/user-attachments/assets/de596986-d83b-442f-810e-dcdec01dd4d1" />
